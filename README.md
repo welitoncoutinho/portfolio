@@ -1,6 +1,8 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<iframe src="https://portfolio-bxkb6gssn-weliton-coutinho-s-projects.vercel.app/" frameborder="0"></iframe>
+![image](fotos/Captura%20de%20tela%202024-06-09%20132434.png)
+
+#### Acesse o [meu portfolio](https://welitoncoutinho.github.io/portfolio/) 
 
 ## Ferramentas utilizadas:
 
@@ -12,6 +14,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Weliton Coutinho
 
 ### Linkedin: https://www.linkedin.com/in/weliton-coutinho-865298285/

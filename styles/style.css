@@ -67,7 +67,7 @@ body{
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     margin-bottom: 20px;
 }
 
@@ -122,8 +122,7 @@ body{
 }
 
 .apresentacao__img{
-    width: 50%;
-    height: 40%;
+    width: 45%;
     border-radius: 15px;
     box-shadow: 15px -15px 2px var(--cor-terciaria);
 }
