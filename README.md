@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](fotos/Captura%20de%20tela%202024-06-09%20132434.png)
+![image](fotos/prit-da-pagina.png)
 
 #### Acesse o [meu portfolio](https://welitoncoutinho.github.io/portfolio/) 
 
