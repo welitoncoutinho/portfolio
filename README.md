@@ -2,7 +2,7 @@
 
 ![image](fotos/prit-da-pagina.png)
 
-#### Acesse o [meu portfolio](https://welitoncoutinho.github.io/portfolio/) 
+### Acesse o [meu portfolio](https://welitoncoutinho.github.io/portfolio/) 
 
 ## Ferramentas utilizadas:
 
